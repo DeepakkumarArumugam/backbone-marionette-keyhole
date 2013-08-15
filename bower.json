@@ -1,0 +1,9 @@
+{
+    "name": "backbone.marionette.keyhole",
+    "version": "1.0.0-SNAPSHOT",
+    "main": "src/backbone.marionette.keyhole.js",
+    "dependencies": {
+        "backbone.marionette": "~1.1.0",
+        "underscore": "~1.5.1"
+    }
+}

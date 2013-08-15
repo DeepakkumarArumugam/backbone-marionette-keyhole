@@ -1,0 +1,26 @@
+{
+  "name": "backbone.marionette.keyhole",
+  "version": "1.0.0-SNAPSHOT",
+  "description": "Keyhole Software Marionette extensions",
+  "main": "src/backbone.marionette.keyhole.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "Keyhole",
+    "Backbone",
+    "Marionette"
+  ],
+  "author": "Jaime Niswonger",
+  "license": "EULA",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.2",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt-contrib-jasmine": "~0.5.1",
+    "grunt-template-jasmine-requirejs": "~0.1.5",
+    "grunt-bumpup": "~0.2.0",
+    "grunt-tagrelease": "~0.2.0"
+  }
+}
